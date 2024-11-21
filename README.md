@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-I am [Felix Gogodae](https://www.linkedin.com/in/trojan7/) also known as Trojan, I am a Full-Stack Developer who is enthusiastic and passionate about building and interpreting nicely designed UI's that gives users that feeling of premium and satisfaction when surfing a webpage 😌 as well as writing tested and working Backend codes.
+I am [Felix Gogodae](https://www.linkedin.com/in/trojan7/) also known as Trojan, I am a Full-Stack, Blockchain, and Smart Contract Developer passionate about building and interpreting beautifully designed UIs that provide a premium and satisfying user experience 😌. I also write tested and efficient backend and smart contract code to deliver robust and innovative solutions.
 
 <br>
 
-<!-- ## I am a Fullstack Developer! -->
+<!-- ## I am a Fullstack and Blockchain Developer! -->
 
-- 📚 I'm currently learning Solidity as well as improving my Frontend and Backend skills, with Data Algorithms and Data Structure.
+- 📚 I'm currently learning Rust, Solidity, and improving my Frontend and Backend skills, with Data Algorithms and Data Structure.
 - 💨 I'm currently working on projects that will increase my proficiency.
-- ✍️ I also do Technical Writing and Graphics Design at my Leisure Time or for paid projects.
-- 🏅 Participated and won numerous Blockchain Hackathons.
+- ✍️ I also do Technical Writing and Graphics Design in my Leisure Time or for paid projects.
+- 🏅 Participated in and won numerous Blockchain Hackathons.
 - ⛑️ Open to Front-end and Backend roles or collaboration on a project.
-- ✨ Fun fact: I love Music...
+- ✨ Fun fact: I love all Music Genres and Reading Project Documentation.
 
 ## Some Stats
 
